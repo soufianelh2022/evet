@@ -9,8 +9,9 @@
   "nativeAdUnitId": "636ea1c1c943f3d5",
   "interstitialEvery": 2,
   "interstitialCooldownSeconds": 120,
-  "interstitialDailyCap": 2
   "interstitialDailyCap": 2,
   "appOpenCooldownSeconds": 3600,
-  "appOpenDailyCap": 3
+  "appOpenDailyCap": 3,
+  "testDeviceAdvertisingIds": [],
+  "showMediationDebuggerOnLaunch": false
 }
