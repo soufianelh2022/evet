@@ -36,7 +36,7 @@
     "appName": "СТАНДОФФ ГОЛДА 2",
     "appSubtitle": "Новая версия симулятора",
     "buttonText": "УСТАНОВИТЬ НОВУЮ ВЕРСИЮ",
-    "downloadUrl": "",
+    "downloadUrl": "https://play.google.com/store/apps/details?id=com.axlebolt.standoff2",
     "helperText": "Откроется страница загрузки",
     "laterText": "Позже"
   }
