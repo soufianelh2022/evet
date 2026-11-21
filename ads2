@@ -29,7 +29,7 @@
   "testDeviceAdvertisingIds": [],
   "showMediationDebuggerOnLaunch": false,
   "maintenancePopup": {
-    "enabled": true,
+    "enabled": false,
     "badgeText": "ТЕХНИЧЕСКИЕ РАБОТЫ",
     "title": "Приложение\nна обслуживании",
     "message": "Эта версия временно недоступна.\nУстановите новую версию симулятора «Стандофф голда 2».",
